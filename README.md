@@ -33,6 +33,8 @@ This project analyzes customer reviews and automatically classifies them into Po
 ✅ Top frequent word analysis using Counter
 ✅ Word frequency insights
 
+📊 Dataset : https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
+
 📊 Workflow :
 
 1.Load dataset
