@@ -24,26 +24,32 @@ This project analyzes customer reviews and automatically classifies them into Po
 
 ⚙️ Features :
 
-✅ Text cleaning (lowercase, punctuation removal, stopwords removal)
-✅ TF-IDF vectorization
-✅ Train-Test Split
-✅ Logistic Regression model
-✅ Sentiment prediction
-✅ Sentiment distribution visualization
-✅ Top frequent word analysis using Counter
-✅ Word frequency insights
+-  Text cleaning (lowercase, punctuation removal, stopwords removal)
+-  TF-IDF vectorization
+-  Train-Test Split
+-  Logistic Regression model
+-  Sentiment prediction
+-  Sentiment distribution visualization
+-  Top frequent word analysis using Counter
+-  Word frequency insights
 
 📊 Dataset : https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
 
 📊 Workflow :
 
-1.Load dataset
-2.Clean text data
-3.Convert text → TF-IDF features
-4.Train ML model (Logistic Regression)
-5.Predict sentiments
-6.Evaluate accuracy
-7.Visualize results
+- Load dataset
+      ⤵️
+- Clean text data
+      ⤵️
+- Convert text → TF-IDF features
+      ⤵️
+- Train ML model (Logistic Regression)'
+       ⤵️
+- Predict sentiments
+       ⤵️
+- Evaluate accuracy
+       ⤵️
+- Visualize results
 
 📈 Sample Visualizations
 
